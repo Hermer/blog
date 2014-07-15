@@ -1,8 +1,9 @@
 {
         "docs"      : {
                 "关于我的博客": "README.md",
-                "性能调优": "posts/Oracle",
-                "Oracle": "posts/性能调优",
+                "性能调优": "posts/性能调优",
+                "Oracle": "posts/Oracle",
+                "Web安全": "posts/Web安全",
                 "其他": "posts"
         },        
         "types"     : {
