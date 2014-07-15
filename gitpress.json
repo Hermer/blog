@@ -1,0 +1,19 @@
+{
+        "docs"      : {
+                "关于我的博客": "README.md",
+                "性能调优": "posts/Oracle",
+                "Oracle": "posts/性能调优",
+                "其他": "posts"
+        },        
+        "types"     : {
+                "\\.(md||markdown)$"   : "markdown", 
+                "\\.(js||css||json)$"  : "code",
+                "\\.html?$"            : "html",
+                ".*"                   : "text"                
+        },
+        "title"  : "Hermer's Blog",
+        "comment"  : "on",
+        "template"  : "pithiness",
+        "perpage"  : 5,
+        "order"  : "number"
+}
