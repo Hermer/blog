@@ -1,0 +1,1 @@
+http://mosir.org/html/y2012/dynamic-create-alphacontrols-in-the-delphi-project.html
