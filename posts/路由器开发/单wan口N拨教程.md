@@ -4,13 +4,14 @@
 
 安装macvlan及Multiwan的软件包
 ===============
-进入System-SoftWare-页面 点一下Update
 
-然后查找macvlan点左边的install 
+1. 进入System-SoftWare-页面 点一下Update
 
-然后查找Multiwan点左边的install 
+2. 然后查找`macvlan`点左边的install 
 
-然后查找Multiwan-app点左边的install 
+3. 然后查找`Multiwan`点左边的install 
+
+4. 然后查找`Multiwan-app`点左边的install 
 
 查看你的wan口的端口名
 =====================
